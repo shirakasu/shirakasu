@@ -1,10 +1,11 @@
 ### About shirakasu
 
+I'm a graduate student.
 
 ### Status
 <p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shirakasu&count_private=true&layout=donut&show_icons=true&theme=highcontrast&title_color=FF877D" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=shirakasu&count_private=true&theme=highcontrast&title_color=FF877D" />
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats-chi-lime-80.vercel.app/api/top-langs/?username=shirakasu&count_private=true&layout=donut&show_icons=true&theme=highcontrast&title_color=FF877D" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats-chi-lime-80.vercel.app/api?username=shirakasu&count_private=true&theme=highcontrast&title_color=FF877D" />
 </p>
 
 ### Links
